@@ -18,10 +18,6 @@ body {
     align-items: center;
 }
 
-.flex-columns {
-    display: flex;
-}
-
 .header-logo, .header-content h1 {
     color: #f9faf8;
 }
@@ -66,6 +62,8 @@ body {
 /* hero section styles */
 
 .header-content {
+    display: flex;
+    gap: 50px;
     padding: 100px 0;
 }
 
