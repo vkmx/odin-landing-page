@@ -16,3 +16,20 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.flex-columns {
+    display: flex;
+}
+
+.header-logo, .header-content h1 {
+    color: #f9faf8;
+}
+
+.header-links a, .header-content {
+    color: #e5e7eb;
+}
+
+.header-content button {
+    background-color: #3882f6;
+    color: inherit;
+}
