@@ -87,3 +87,14 @@ body {
     border: none;
     border-radius: 8px;
 }
+
+/* feature section */
+
+.feature {
+    text-align: center;
+}
+
+.feature-items {
+    display: flex;
+    gap: 50px;
+}
