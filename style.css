@@ -171,3 +171,17 @@ body {
     align-items: center;
 
 }
+
+.call-to-action h2 {
+    padding: 0;
+    margin: 0;
+}
+
+.call-to-action button {
+    color: inherit;
+    background-color: inherit;
+    padding: 10px 30px;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 18px;
+}
