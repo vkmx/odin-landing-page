@@ -149,3 +149,25 @@ body {
     font-size: 28px;
     font-weight: 900;
 }
+
+/* call to action */
+
+.call-to-action-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.call-to-action {
+    background-color: #3882f6;
+    color: white;
+    box-sizing: border-box;
+    width: 1024px;
+    padding: 50px 120px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
